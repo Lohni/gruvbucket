@@ -1,0 +1,69 @@
+/*Diff colors*/
+.bitkit-diff-wrapper-diff .line-wrapper.type-del {
+    background-color: #45302B !important;
+}
+
+.bitkit-diff-wrapper-diff .line-wrapper.type-add {
+    background-color: #294436 !important;
+}
+
+.bitkit-diff-wrapper-diff .line-wrapper.type-normal {
+    background-color: #282828 !important;
+}
+
+.bitkit-diff-wrapper-diff .code-component del {
+    background-color: #78443b !important;
+}
+
+.bitkit-diff-wrapper-diff .code-component ins {
+    background-color: #396146 !important;
+}
+
+/*Syntax*/
+.token {
+  font-weight: 600;
+}
+
+.token.keyword {
+    color: #a04dc9 !important;
+}
+
+.token.operator {
+  color: #90D7BB !important;
+}
+
+.token.number {
+  color: #D3869B !important;
+}
+
+.token.class-name, .token.attr-name {
+    color: #FABD2F !important;
+}
+
+.token.function, .token.property, .token.tag {
+    color: #83A598 !important;
+}
+
+.token.constant, .token.inserted {
+    color: #D3869B !important;
+}
+
+.token.string, .token.attr-value {
+  color: #B8BB26 !important;
+}
+
+.token.comment .code-component {
+  color: #928374 !important;
+}
+
+.token.annotation {
+  color: #bfaeae !important;
+}
+
+.token.punctuation {
+  color: #B37089 !important;
+}
+
+.code-diff {
+  color: #FBF1C7 !important;
+}
