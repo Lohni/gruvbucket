@@ -64,6 +64,14 @@
   color: #B37089 !important;
 }
 
+.token.key.atrule {
+  color: #83A598 !important;
+}
+
+.token.boolean.important {
+    color: #a04dc9 !important;
+}
+
 .code-diff {
   color: #FBF1C7 !important;
 }
